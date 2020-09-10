@@ -14,7 +14,7 @@ Frontend Development gaat over de _client side_ van een applicatie, de zogenaamd
 
 ### Talen
 
-Talen die vaak gebruikt worden voor het frontenddeel van een applicatie zijn: `HTML`, `CSS` en `Javascript`. Maar het gaat vaak nog verder dan dat: Lettertypes, Layouts, Grid Systeem en kleurentheorie. Kortom, de wereld van Frontend Development is heel erg groot. En je staat nu aan het begin van je reis in deze wereld. 
+Talen die vaak gebruikt worden voor het frontenddeel van een applicatie zijn: `HTML`, `CSS` en `Javascript`. Maar het gaat vaak nog verder dan dat: Lettertypes, Layouts, Grid Systeem en kleurentheorie. Kortom, de wereld van Frontend Development is heel erg groot. En je staat nu aan het begin van je reis in deze wereld.
 
 ### Overzicht
 
@@ -23,7 +23,6 @@ Talen die vaak gebruikt worden voor het frontenddeel van een applicatie zijn: `H
 ### Opdracht
 
 Als je deze taak gelezen hebt dan kun je deze nu afvinken.
-
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
