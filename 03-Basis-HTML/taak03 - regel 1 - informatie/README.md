@@ -41,7 +41,7 @@ Er bestaan nog meer kopteksten, ook wel headers genoemd.
 
 Maar er zijn ook nog andere tags die veel gebruikt worden:
 
-- `<div>` wordt gebruikt voor meerdere situaties en betekend _division_
+- `<div>` wordt gebruikt voor meerdere situaties en betekent _division_
 - `<aside>` wordt gebruikt om een zijkant van een pagina aan te geven
 - `<address>` wordt gebruikt om een adres aan te geven
 - `<main>` wordt gebruikt om het belangrijkste deel van de zichtbare info aan te geven

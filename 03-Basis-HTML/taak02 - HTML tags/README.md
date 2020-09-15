@@ -12,7 +12,7 @@ Een webpagina is opgebouwd uit HTML-tags. Tags kun je vergelijken met Lego blokj
 
 De meeste webpagina's die jij gaat maken hebben een standaard patroon.
 
-Een webpagina heeft vaak het volgende standaard patroon. Deze HTML-tags zijn **altijd** aanwezig op je website:
+Een webpagina heeft vaak het volgende __standaard__ patroon. Deze HTML-tags zijn **altijd** aanwezig op je website:
 
 ```html
 <!DOCTYPE html>
