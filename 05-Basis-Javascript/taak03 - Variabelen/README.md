@@ -4,7 +4,7 @@
 
 ### Variabelen 1
 
-Je hebt bij de vorige opdracht code gemaakt die een bepaalde __ouput__ genereerde. Je codeerde, afhankelijk van het type popup-box, een bepaalde __input__ van de gebruiker. Bij promp() kon de gebruiker naast Oké-knop ook iets invullen.
+Je hebt bij de vorige opdracht code gemaakt die een bepaalde __ouput__ genereerde. Je codeerde, afhankelijk van het type popup-box, een bepaalde __input__ van de gebruiker. Bij prompt() kon de gebruiker naast Oké-knop ook iets invullen.
 
 Maar met deze tekst input werd nog niks gedaan. Dat ga je bij deze opdracht coderen.
 

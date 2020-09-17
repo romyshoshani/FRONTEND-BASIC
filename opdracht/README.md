@@ -41,6 +41,7 @@ Gebruik __tenminste__ de volgende technieken:
 
 #### CSS-TECHNIEKEN
 
+- `body{}`
 - `.class{}`
 - `#id{}`
 - `background-color`
