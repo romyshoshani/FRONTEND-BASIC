@@ -6,7 +6,7 @@
 
 ### Definitie
 
-Front End Development gaat over alles wat de gebruiker als eerste ziet in een browser of applicatie. Front End Developers zijn verantwoordelijk voor de `look and feel` van een applicatie.
+Front End Development  gaat over alles wat de gebruiker als eerste ziet in een browser of applicatie. Front End Developers zijn verantwoordelijk voor de `look and feel` van een applicatie.
 
 ### Design omzetten
 
